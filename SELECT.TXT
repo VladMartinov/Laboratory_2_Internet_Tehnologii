@@ -1,0 +1,6 @@
+
+SQL:SELECT contact_id FROM contactdb LIMIT 20 
+
+  SQL: SELECT contact_id, name FROM contactdb LIMIT 20
+
+  SQL: SELECT contact_id, name ,   contact_id, name, name FROM contactdb LIMIT 20
